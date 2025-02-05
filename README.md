@@ -4,7 +4,7 @@
   <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png">
 </a>
 
-Este repositório contém os projetos realizados como parte da plataforma [DIO.me](https://www.dio.me/). Aqui, você encontrará materiais de apoio e os desafios práticos que foram desenvolvidos durante o processo de aprendizagem.
+Este repositório contém os projetos realizados como parte da plataforma [DIO.me](https://www.dio.me/).
 
 [![Acesse o Lab na Plataforma DIO.me](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
 
