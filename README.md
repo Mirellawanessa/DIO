@@ -6,8 +6,8 @@
 
 Este repositório contém os projetos realizados como parte da plataforma [DIO.me](https://www.dio.me/). Aqui, você encontrará materiais de apoio e os desafios práticos que foram desenvolvidos durante o processo de aprendizagem.
 
-[![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
-[![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
+[![Acesse o Lab na Plataforma DIO.me](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
+
 
 ## Objetivo
 
@@ -38,35 +38,27 @@ Aqui estão os projetos que desenvolvi e contribui, com links para acessar mais 
 
 1. **Formação Educacional**
    - Descrição: Sistema para abstração do domínio educacional, com funcionalidades como matrícula de alunos.
-   - [Link para o repositório](https://github.com/Mirellawanessa/ProjetoDIO)
-
+ 
 2. **Meu Projeto Herói**
    - Descrição: Sistema simples de cadastro de heróis com características específicas.
-   - [Link para o repositório](https://github.com/Mirellawanessa/MeuProjetoHeroi)
-
+   
 3. **Pokedex**
    - Descrição: Aplicação para consulta de dados de Pokémon.
-   - [Link para o repositório](https://github.com/Mirellawanessa/Pokedex)
-
+  
 4. **Banco Digital**
    - Descrição: Sistema de controle de fluxo de contas bancárias.
-   - [Link para o repositório](https://github.com/Mirellawanessa/banco-digital)
-
+   
 5. **Calculadora de Partidas Ranqueadas**
    - Descrição: Calculadora para controle de partidas em jogos ranqueados.
-   - [Link para o repositório](https://github.com/Mirellawanessa/calculadora-partidas-rankeadas)
-
+  
 6. **Classificador de Heróis**
    - Descrição: Sistema para classificar heróis de acordo com suas habilidades.
-   - [Link para o repositório](https://github.com/Mirellawanessa/classificador-heroi)
-
+  
 7. **Notas API**
    - Descrição: API simples para gestão de notas dos alunos.
-   - [Link para o repositório](https://github.com/Mirellawanessa/notas-api)
-
+  
 8. **DIO.me Open Source Lab**
    - Descrição: Contribuição no projeto open source para a Digital Innovation One.
-   - [Link para o repositório](https://github.com/Mirellawanessa/dio-lab-open-source)
 
 ## Objetivo dos Projetos
 
