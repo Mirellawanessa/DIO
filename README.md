@@ -6,9 +6,6 @@
 
 Este repositório contém os projetos realizados como parte da plataforma [DIO.me](https://www.dio.me/).
 
-[![Acesse o Lab na Plataforma DIO.me](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
-
-
 ## Objetivo
 
 Este repositório serve como portfólio para os projetos desenvolvidos, mostrando a evolução das habilidades adquiridas ao longo do tempo. Explore os projetos abaixo para ver como eles foram construídos.
@@ -34,7 +31,7 @@ Este repositório serve como portfólio para os projetos desenvolvidos, mostrand
 
 ## Projetos
 
-Aqui estão os projetos que desenvolvi e contribui, com links para acessar mais informações ou repositórios específicos:
+Aqui estão os projetos que desenvolvi e contribui:
 
 1. **Formação Educacional**
    - Descrição: Sistema para abstração do domínio educacional, com funcionalidades como matrícula de alunos.
@@ -74,4 +71,4 @@ Fique à vontade para contribuir com qualquer um desses projetos! Você pode faz
 
 ---
 
-<div align="center">Feito com 💙 por Mirellawanessa</div>
+<div align="center">Feito com 🤍 por Mirellawanessa</div>
